@@ -1,0 +1,21 @@
+{
+	"status": "SUCCESS",
+	"message": "Here you go! Al White Panda Space products \n",
+	"products": [
+		{
+			"id": 1,
+			"title": "El contador de ovejas",
+			"image": "https://paradormir.shop/images/book.avif",
+			"price": 773,
+			"description": "Programa online para recuperar el sueño y bajar la ansiedad",
+			"brand": "White Panda Space",
+			"model": "",
+			"color": "",
+			"type": "online",
+			"category": "audio",
+			"discount": 0,
+			"currencyCOP" : "COP",
+			"currencyUSD" : "USD"
+		},		
+	]
+}
