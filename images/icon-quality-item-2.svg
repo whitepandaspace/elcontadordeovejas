@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="50"
+   height="51"
+   viewBox="0 0 50 51"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="icon-quality-item-2.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.784314"
+     inkscape:cx="24.952453"
+     inkscape:cy="25.57822"
+     inkscape:window-width="1600"
+     inkscape:window-height="863"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     d="M16.0709 46.6535C23.9607 46.6535 30.3566 40.2575 30.3566 32.3677C30.3566 24.478 23.9607 18.082 16.0709 18.082C8.18109 18.082 1.78516 24.478 1.78516 32.3677C1.78516 40.2575 8.18109 46.6535 16.0709 46.6535Z"
+     stroke="#F8C822"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1"
+     style="stroke:#99c51d;stroke-opacity:1" />
+  <path
+     d="M33.9263 46.6535C41.8161 46.6535 48.2121 40.2575 48.2121 32.3677C48.2121 24.478 41.8161 18.082 33.9263 18.082C26.0366 18.082 19.6406 24.478 19.6406 32.3677C19.6406 40.2575 26.0366 46.6535 33.9263 46.6535Z"
+     stroke="#F8C822"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path2"
+     style="stroke:#99c51d;stroke-opacity:1" />
+  <path
+     d="M25.0006 32.3644C32.8903 32.3644 39.2863 25.9685 39.2863 18.0787C39.2863 10.1889 32.8903 3.79297 25.0006 3.79297C17.1108 3.79297 10.7148 10.1889 10.7148 18.0787C10.7148 25.9685 17.1108 32.3644 25.0006 32.3644Z"
+     stroke="#F8C822"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path3"
+     style="stroke:#99c51d;stroke-opacity:1" />
+</svg>

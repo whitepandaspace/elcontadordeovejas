@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="30"
+   height="31"
+   viewBox="0 0 30 31"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="icon-why-choose-1.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="21.032258"
+     inkscape:cx="15.02454"
+     inkscape:cy="15.452454"
+     inkscape:window-width="1600"
+     inkscape:window-height="863"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <g
+     clip-path="url(#clip0_3_93698)"
+     id="g3"
+     style="stroke:#99c51d;stroke-opacity:1">
+    <path
+       d="M16.0053 15.7444C15.6875 15.8824 15.3447 15.9536 14.9982 15.9536C14.6517 15.9536 14.3089 15.8824 13.9911 15.7444L1.77678 10.0872C1.57844 9.98721 1.41176 9.83408 1.2953 9.64491C1.17885 9.45574 1.11719 9.23796 1.11719 9.01582C1.11719 8.79367 1.17885 8.57589 1.2953 8.38673C1.41176 8.19756 1.57844 8.04443 1.77678 7.94439L13.9911 2.24439C14.3089 2.10637 14.6517 2.03516 14.9982 2.03516C15.3447 2.03516 15.6875 2.10637 16.0053 2.24439L28.2196 7.90153C28.418 8.00157 28.5847 8.1547 28.7011 8.34387C28.8176 8.53304 28.8792 8.75082 28.8792 8.97296C28.8792 9.1951 28.8176 9.41288 28.7011 9.60205C28.5847 9.79122 28.418 9.94435 28.2196 10.0444L16.0053 15.7444Z"
+       stroke="#F8C822"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path1"
+       style="stroke:#99c51d;stroke-opacity:1" />
+    <path
+       d="M28.9275 16.707L15.856 22.7285C15.5769 22.8558 15.2736 22.9217 14.9667 22.9217C14.6599 22.9217 14.3566 22.8558 14.0775 22.7285L1.07031 16.707"
+       stroke="#F8C822"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path2"
+       style="stroke:#99c51d;stroke-opacity:1" />
+    <path
+       d="M28.9275 23.6719L15.856 29.6933C15.5769 29.8206 15.2736 29.8865 14.9667 29.8865C14.6599 29.8865 14.3566 29.8206 14.0775 29.6933L1.07031 23.6719"
+       stroke="#F8C822"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path3"
+       style="stroke:#99c51d;stroke-opacity:1" />
+  </g>
+  <defs
+     id="defs3">
+    <clipPath
+       id="clip0_3_93698">
+      <rect
+         width="30"
+         height="30"
+         fill="white"
+         transform="translate(0 0.957031)"
+         id="rect3" />
+    </clipPath>
+  </defs>
+</svg>

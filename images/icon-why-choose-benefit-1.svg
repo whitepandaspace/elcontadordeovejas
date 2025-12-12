@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="40"
+   height="41"
+   viewBox="0 0 40 41"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="icon-why-choose-benefit-1.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="15.902439"
+     inkscape:cx="19.996933"
+     inkscape:cy="20.5"
+     inkscape:window-width="1600"
+     inkscape:window-height="863"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     clip-path="url(#clip0_3_93739)"
+     id="g4"
+     style="stroke:#99c51d;stroke-opacity:1">
+    <path
+       d="M14.9433 7.02344L16.1719 3.85201C16.3791 3.31505 16.7436 2.85318 17.2178 2.5269C17.6919 2.20062 18.2535 2.02514 18.829 2.02344H21.1719C21.7474 2.02514 22.3091 2.20062 22.7832 2.5269C23.2573 2.85318 23.6218 3.31505 23.829 3.85201L25.0576 7.02344L29.229 9.42344L32.6005 8.90915C33.1618 8.83295 33.7332 8.92537 34.2419 9.17465C34.7507 9.42393 35.1738 9.81882 35.4576 10.3092L36.6005 12.3092C36.8933 12.8073 37.0282 13.3825 36.9874 13.9589C36.9466 14.5353 36.732 15.0858 36.3719 15.5377L34.2862 18.1949V22.9949L36.429 25.652C36.7892 26.1039 37.0038 26.6544 37.0446 27.2308C37.0854 27.8072 36.9505 28.3824 36.6576 28.8806L35.5148 30.8806C35.231 31.3709 34.8078 31.7658 34.2991 32.0151C33.7904 32.2644 33.219 32.3568 32.6576 32.2806L29.2862 31.7663L25.1148 34.1663L23.8862 37.3377C23.679 37.8747 23.3145 38.3366 22.8403 38.6628C22.3662 38.9891 21.8046 39.1646 21.229 39.1663H18.829C18.2535 39.1646 17.6919 38.9891 17.2178 38.6628C16.7436 38.3366 16.3791 37.8747 16.1719 37.3377L14.9433 34.1663L10.7719 31.7663L7.40047 32.2806C6.83909 32.3568 6.26773 32.2644 5.75899 32.0151C5.25025 31.7658 4.82711 31.3709 4.54333 30.8806L3.40047 28.8806C3.10762 28.3824 2.97269 27.8072 3.0135 27.2308C3.0543 26.6544 3.26893 26.1039 3.62904 25.652L5.71475 22.9949V18.1949L3.5719 15.5377C3.21178 15.0858 2.99716 14.5353 2.95635 13.9589C2.91555 13.3825 3.05047 12.8073 3.34333 12.3092L4.48618 10.3092C4.76996 9.81882 5.19311 9.42393 5.70185 9.17465C6.21058 8.92537 6.78195 8.83295 7.34333 8.90915L10.7148 9.42344L14.9433 7.02344Z"
+       stroke="#F8C822"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path1"
+       style="stroke:#99c51d;stroke-opacity:1" />
+    <path
+       d="M20.0011 29.1663C24.735 29.1663 28.5725 25.3287 28.5725 20.5949C28.5725 15.861 24.735 12.0234 20.0011 12.0234C15.2672 12.0234 11.4297 15.861 11.4297 20.5949C11.4297 25.3287 15.2672 29.1663 20.0011 29.1663Z"
+       stroke="#F8C822"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path2"
+       style="stroke:#99c51d;stroke-opacity:1" />
+    <path
+       d="M20 12.0234V20.5949H28.5714"
+       stroke="#F8C822"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path3"
+       style="stroke:#99c51d;stroke-opacity:1" />
+    <path
+       d="M20.0025 20.5938L13.9453 26.6509"
+       stroke="#F8C822"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path4"
+       style="stroke:#99c51d;stroke-opacity:1" />
+  </g>
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip0_3_93739">
+      <rect
+         width="40"
+         height="40"
+         fill="white"
+         transform="translate(0 0.59375)"
+         id="rect4" />
+    </clipPath>
+  </defs>
+</svg>
